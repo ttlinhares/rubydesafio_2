@@ -1,4 +1,4 @@
-#Criar um array vazio para que o usuário insira 3 numeros; o sistema no final deve mostrar os números na 3 portência.
+#Criar um array vazio para que o usuário insira 3 numeros; o sistema no final deve mostrar os números na 3 potência.
 arraynumeros = []
 num = 1
 
